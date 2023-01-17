@@ -1,5 +1,0 @@
-rootProject.name = 'carRental'
-include 'UserService'
-include 'CarService'
-include 'BookingService'
-
